@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>System.ChangeTracker</RootNamespace>
+		<AssemblyName>System.ChangeTracker</AssemblyName>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<InternalsVisibleTo Include="System.ChangeTracker.Tests" />
+	</ItemGroup>
+</Project>
